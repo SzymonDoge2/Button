@@ -1,0 +1,26 @@
+html {
+    text-align: center;
+    background-image: linear-gradient(rgb(154, 224, 142) , yellow, chocolate);
+}
+
+h1 {
+    margin: 10px 0 100px 0;
+}
+
+button {
+    width: 200px;
+    height: 50x;
+    padding: 8px 16px;
+    border-radius: 13px;
+    border: none;
+    color: #ffffff;
+    background-color: lightgray;
+    margin: 10px 0 0 0;
+    cursor: pointer;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+    margin: 25px 0;
+}
